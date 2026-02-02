@@ -37,22 +37,22 @@ My focus is on combining solid analytical foundations with clean, reproducible c
 
 | Phase | Project | Description | Tech Used | Outcome / What I Learned | Repo-Link|
 |------|--------|-------------|-----------|--------------------------|-------------|
-| 📊 Phase 1 | Aircraft Analysis | Exploratory data analysis of aircraft-related data to uncover patterns, risks, and insights using real-world datasets. | Python, Pandas, Matplotlib, Jupyter | Built strong foundation in EDA, data cleaning, and insight communication using visualizations. | !(Aircraft Analysis)[https://github.com/sharonkipruto-code/Phase-1-project] |
-| 🧠 Phase 2 | SQL & Statistics (Team Project) | Collaborative analysis project combining SQL queries and statistical methods to answer business questions. | SQL, Python, Pandas, Statistics | Strengthened SQL skills, applied hypothesis testing, and learned collaborative data workflows. |  !()[] |
-|🤖 Phase 3 | Classification Task | Developed and evaluated machine learning classification models to predict outcomes from structured data. | Python, Scikit-learn, Pandas | Learned model selection, evaluation metrics, feature engineering, and overfitting control. |  !()[] |
-| 🗣 Phase 4 | NLP Project | Applied natural language processing techniques to analyze and extract insights from text data. | Python, NLP libraries, Scikit-learn | Gained hands-on experience with text preprocessing, vectorization, and NLP modeling. |  !()[] |
+| 📊 Phase 1 | Aircraft Analysis | Exploratory data analysis of aircraft-related data to uncover patterns, risks, and insights using real-world datasets. | Python, Pandas, Matplotlib, Jupyter | Built strong foundation in EDA, data cleaning, and insight communication using visualizations. | ![Aircraft Analysis](https://github.com/sharonkipruto-code/Phase-1-project) |
+| 🧠 Phase 2 | SQL & Statistics (Team Project) | Collaborative analysis project combining SQL queries and statistical methods to answer business questions. | SQL, Python, Pandas, Statistics | Strengthened SQL skills, applied hypothesis testing, and learned collaborative data workflows. |  [group_project](https://github.com/lorenaterah/Phase-2-project-G3) |
+|🤖 Phase 3 | Classification Task | Developed and evaluated machine learning classification models to predict outcomes from structured data. | Python, Scikit-learn, Pandas | Learned model selection, evaluation metrics, feature engineering, and overfitting control. |  [Flu_vaccine prediction](https://github.com/sharonkipruto-code/Phase3_project) |
+| 🗣 Phase 4 | NLP Project | Applied natural language processing techniques to analyze and extract insights from text data. | Python, NLP libraries, Scikit-learn | Gained hands-on experience with text preprocessing, vectorization, and NLP modeling. |  [sentiment analysis](https://github.com/lorenaterah/NLP-Sentiment-Analysis) |
+|Phase 5|  |  |  |  |  | 
 
 ### ⚙️ Other Notebooks & Labs  
 
-Includes labs, checkpoints, visualization practice, and exploratory analysis notebooks — showing breadth in foundational skills. :contentReference[oaicite:8]{index=8}
+Includes labs, checkpoints, visualization practice and exploratory analysis notebooks — showing breadth in foundational skills. 
 
 ---
 
 ## 📫 Get in Touch
 
 - **Email:** sharonkiprutto@gmail.com
-- **LinkedIn:** ![Sharon-Kiprutto](https://www.linkedin.com/in/sharon-kiprutto-317052101/) 
-
+- **LinkedIn:** [Sharon-Kiprutto](https://www.linkedin.com/in/sharon-kiprutto-317052101/) 
 - 🚧 **Portfolio Website:** Coming soon  
 I am currently building a personal portfolio to showcase selected projects, dashboards, and case studies.
 
