@@ -35,28 +35,16 @@ My focus is on combining solid analytical foundations with clean, reproducible c
 -----
 ## 🚀 Projects
 
-### 📊 Phase 1 – Aircraft Data Analysis  
-Explored and analyzed aviation datasets, extracting trends and insights using Python notebooks. :contentReference[oaicite:6]{index=6}
-
-### 🧠 Phase 2 – SQL & Statistics (Team Project)  
-Collaborated on a comprehensive data analysis project involving SQL, statistical testing, and visualization in a team setting. :contentReference[oaicite:7]{index=7}
-
-### 🤖 Phase 3 – Classification Modeling  
-Built and evaluated predictive classification models on real datasets (see related repositories).
-
-### 🗣 Phase 4 – NLP Project  
-Implemented natural language processing techniques for text analysis and feature extraction (see specific repo for details).
+| Phase | Project | Description | Tech Used | Outcome / What I Learned | Repo-Link|
+|------|--------|-------------|-----------|--------------------------|-------------|
+| 📊 Phase 1 | Aircraft Analysis | Exploratory data analysis of aircraft-related data to uncover patterns, risks, and insights using real-world datasets. | Python, Pandas, Matplotlib, Jupyter | Built strong foundation in EDA, data cleaning, and insight communication using visualizations. | !(Aircraft Analysis)[https://github.com/sharonkipruto-code/Phase-1-project] |
+| 🧠 Phase 2 | SQL & Statistics (Team Project) | Collaborative analysis project combining SQL queries and statistical methods to answer business questions. | SQL, Python, Pandas, Statistics | Strengthened SQL skills, applied hypothesis testing, and learned collaborative data workflows. |  !()[] |
+|🤖 Phase 3 | Classification Task | Developed and evaluated machine learning classification models to predict outcomes from structured data. | Python, Scikit-learn, Pandas | Learned model selection, evaluation metrics, feature engineering, and overfitting control. |  !()[] |
+| 🗣 Phase 4 | NLP Project | Applied natural language processing techniques to analyze and extract insights from text data. | Python, NLP libraries, Scikit-learn | Gained hands-on experience with text preprocessing, vectorization, and NLP modeling. |  !()[] |
 
 ### ⚙️ Other Notebooks & Labs  
-Includes labs, checkpoints, visualization practice, and exploratory analysis notebooks — showing breadth in foundational skills. :contentReference[oaicite:8]{index=8}
----
-| Phase | Project | Description | Tech Used | Outcome / What I Learned |
-|------|--------|-------------|-----------|--------------------------|
-| Phase 1 | Aircraft Analysis | Exploratory data analysis of aircraft-related data to uncover patterns, risks, and insights using real-world datasets. | Python, Pandas, Matplotlib, Jupyter | Built strong foundation in EDA, data cleaning, and insight communication using visualizations. |
-| Phase 2 | SQL & Statistics (Team Project) | Collaborative analysis project combining SQL queries and statistical methods to answer business questions. | SQL, Python, Pandas, Statistics | Strengthened SQL skills, applied hypothesis testing, and learned collaborative data workflows. |
-| Phase 3 | Classification Task | Developed and evaluated machine learning classification models to predict outcomes from structured data. | Python, Scikit-learn, Pandas | Learned model selection, evaluation metrics, feature engineering, and overfitting control. |
-| Phase 4 | NLP Project | Applied natural language processing techniques to analyze and extract insights from text data. | Python, NLP libraries, Scikit-learn | Gained hands-on experience with text preprocessing, vectorization, and NLP modeling. |
 
+Includes labs, checkpoints, visualization practice, and exploratory analysis notebooks — showing breadth in foundational skills. :contentReference[oaicite:8]{index=8}
 
 ---
 
