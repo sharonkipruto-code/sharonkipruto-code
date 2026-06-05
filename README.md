@@ -41,7 +41,10 @@ My focus is on combining solid analytical foundations with clean, reproducible c
 | 🧠 Phase 2 | SQL & Statistics (Team Project) | Collaborative analysis project combining SQL queries and statistical methods to answer business questions. | SQL, Python, Pandas, Statistics | Strengthened SQL skills, applied hypothesis testing, and learned collaborative data workflows. |  [group_project](https://github.com/lorenaterah/Phase-2-project-G3) |
 |🤖 Phase 3 | Classification Task | Developed and evaluated machine learning classification models to predict outcomes from structured data. | Python, Scikit-learn, Pandas | Learned model selection, evaluation metrics, feature engineering, and overfitting control. |  [Flu_vaccine prediction](https://github.com/sharonkipruto-code/Phase3_project) |
 | 🗣 Phase 4 | NLP Project | Applied natural language processing techniques to analyze and extract insights from text data. | Python, NLP libraries, Scikit-learn | Gained hands-on experience with text preprocessing, vectorization, and NLP modeling. |  [sentiment analysis](https://github.com/lorenaterah/NLP-Sentiment-Analysis) |
-|Phase 5|  |  |  |  |  | 
+|Phase 5|CAPSTONE PROJECT  | built a data-driven project focused on segmenting the Nairobi Securities Exchange (NSE) stock market using machine learning techniques to uncover meaningful patterns in stock behavior.  |Python (Pandas, NumPy, Scikit-learn)
+Data Visualization (Matplotlib / Seaborn)
+Machine Learning (Unsupervised Learning / Clustering)
+Financial Data Analysis  |Shows real-world application of machine learning in finance.Demonstrate end-to-end data science workflow.Highlight the ability to work with financial/stock market datasets  | [NSE_stock_segmentation)](https://github.com/lorenaterah/NSE_Stock_Market_Segmentation) | 
 
 ### ⚙️ Other Notebooks & Labs  
 
